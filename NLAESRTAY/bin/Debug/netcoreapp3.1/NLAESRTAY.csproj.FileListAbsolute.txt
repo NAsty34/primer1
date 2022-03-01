@@ -1,0 +1,5 @@
+C:\Users\comp0705\Desktop\NLAESRTAY\obj\Debug\netcoreapp3.1\NLAESRTAY.csproj.AssemblyReference.cache
+C:\Users\comp0705\Desktop\NLAESRTAY\obj\Debug\netcoreapp3.1\NLAESRTAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comp0705\Desktop\NLAESRTAY\obj\Debug\netcoreapp3.1\NLAESRTAY.AssemblyInfoInputs.cache
+C:\Users\comp0705\Desktop\NLAESRTAY\obj\Debug\netcoreapp3.1\NLAESRTAY.AssemblyInfo.cs
+C:\Users\comp0705\Desktop\NLAESRTAY\obj\Debug\netcoreapp3.1\NLAESRTAY.csproj.CoreCompileInputs.cache

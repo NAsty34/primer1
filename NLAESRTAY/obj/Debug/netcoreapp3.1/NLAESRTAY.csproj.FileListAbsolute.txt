@@ -1,0 +1,14 @@
+C:\Users\comp0705\Desktop\NLAESRTAY\obj\Debug\netcoreapp3.1\NLAESRTAY.csproj.AssemblyReference.cache
+C:\Users\comp0705\Desktop\NLAESRTAY\obj\Debug\netcoreapp3.1\NLAESRTAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comp0705\Desktop\NLAESRTAY\obj\Debug\netcoreapp3.1\NLAESRTAY.AssemblyInfoInputs.cache
+C:\Users\comp0705\Desktop\NLAESRTAY\obj\Debug\netcoreapp3.1\NLAESRTAY.AssemblyInfo.cs
+C:\Users\comp0705\Desktop\NLAESRTAY\obj\Debug\netcoreapp3.1\NLAESRTAY.csproj.CoreCompileInputs.cache
+C:\Users\comp0705\Desktop\NLAESRTAY\bin\Debug\netcoreapp3.1\NLAESRTAY.exe
+C:\Users\comp0705\Desktop\NLAESRTAY\bin\Debug\netcoreapp3.1\NLAESRTAY.deps.json
+C:\Users\comp0705\Desktop\NLAESRTAY\bin\Debug\netcoreapp3.1\NLAESRTAY.runtimeconfig.json
+C:\Users\comp0705\Desktop\NLAESRTAY\bin\Debug\netcoreapp3.1\NLAESRTAY.runtimeconfig.dev.json
+C:\Users\comp0705\Desktop\NLAESRTAY\bin\Debug\netcoreapp3.1\NLAESRTAY.dll
+C:\Users\comp0705\Desktop\NLAESRTAY\bin\Debug\netcoreapp3.1\NLAESRTAY.pdb
+C:\Users\comp0705\Desktop\NLAESRTAY\obj\Debug\netcoreapp3.1\NLAESRTAY.dll
+C:\Users\comp0705\Desktop\NLAESRTAY\obj\Debug\netcoreapp3.1\NLAESRTAY.pdb
+C:\Users\comp0705\Desktop\NLAESRTAY\obj\Debug\netcoreapp3.1\NLAESRTAY.genruntimeconfig.cache
